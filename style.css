@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(150,150,150);
+  font-family: sans-serif;
+  margin: 50px;
+}
+p {
+  color: rgb(230,230,255);
+}
+h1 {
+  font-weight: bold;
+  text-decoration: underline;
+  font-family: sans-serif;
+  color:rgb(100,20,50);
+}
+li {
+  color: white;
+}
+img {
+  width: 300px;
+  border-style: dashed;
+  border-radius: 16px;
+  margin:50px;
+}
+a {
+  margin: 5px;
+  color:darkblue;
+}
+.footerImg{
+  margin:none;
+  width: 50px;
+}
